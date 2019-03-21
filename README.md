@@ -1,2 +1,3 @@
 # lanqiao_practice
-Practices with lanqiao questions
+Practices with lanqiao questions.
+Just for fun and fun and fun ...
